@@ -1,10 +1,10 @@
+[![TODO board](https://imdone.io/api/1.0/projects/5beec3955bf03b6c1e18e111/badge)](https://imdone.io/app#/board/wasimxe/prettyCheckable)
+
 #What does it do?
 
 This plugin replaces the default checkboxes and radio inputs for better looking ones.
 
-##Features:
-
-* Compatible with IE7+, Chrome, Firefox, Safari and mobile browsers;
+##Features: * Compatible with IE7+, Chrome, Firefox, Safari and mobile browsers; id:4
 * Custom design, kindly provided by [Bruno O. Barros](http://ilustrebob.com.br/);
 * Four color options (Twitter bootstrap) + [editable PSD](http://arthurgouveia.com/prettyCheckable/goodies/prettyCheckable.psd);
 * Better look & size;
